@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ee0w83hp5-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ee0w83hp5-go
